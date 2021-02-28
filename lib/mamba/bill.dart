@@ -46,11 +46,6 @@ class Bill extends StatelessWidget {
     var c = getFinalAmount();
     pushme();
 
-
-    var amountWithoutGst = getAmountWithoutGst();
-    var gst = getGst();
-    var finalAmount = getFinalAmount();
-
     var widget = Container(
       child: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 18.0),
@@ -70,7 +65,7 @@ class Bill extends StatelessWidget {
                     ),
                   ),
                   Text(
-                    amountWithoutGst,
+                    a,
                     style: TextStyle(
                       color: kPrimaryColor,
                       fontSize: 16,
@@ -90,7 +85,7 @@ class Bill extends StatelessWidget {
                   ),
                 ),
                 Text(
-                  gst,
+                  b,
                   style: TextStyle(
                     color: kPrimaryColor,
                     fontSize: 16,
@@ -109,7 +104,7 @@ class Bill extends StatelessWidget {
                   ),
                 ),
                 Text(
-                  gst,
+                  b,
                   style: TextStyle(
                     color: kPrimaryColor,
                     fontSize: 16,
@@ -130,7 +125,7 @@ class Bill extends StatelessWidget {
                         fontWeight: FontWeight.bold),
                   ),
                   Text(
-                    finalAmount,
+                    c,
                     style: TextStyle(
                         color: kPrimaryColor,
                         fontSize: 16,
