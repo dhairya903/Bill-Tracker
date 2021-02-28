@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "985763235734",
+    "project_id": "bill-tracker-ee921",
+    "storage_bucket": "bill-tracker-ee921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985763235734:android:967d4c592124ec8a10bfb7",
+        "android_client_info": {
+          "package_name": "com.example.bill_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985763235734-mv47tirerqa80sarjg8ed4di32kpspih.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bill_tracker",
+            "certificate_hash": "7744d9e4e03e33a192a5f7218e6c2e13d2ef230e"
+          }
+        },
+        {
+          "client_id": "985763235734-jud3664lu07v6cgdr7pc2h63jh7v5jnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4pFKOUQWsY2d1JAAh7UIFsI3MVvMLYd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985763235734-jud3664lu07v6cgdr7pc2h63jh7v5jnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

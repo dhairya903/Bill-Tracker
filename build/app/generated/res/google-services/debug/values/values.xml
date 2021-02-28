@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">985763235734-jud3664lu07v6cgdr7pc2h63jh7v5jnr.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">985763235734</string>
+    <string name="google_api_key" translatable="false">AIzaSyA4pFKOUQWsY2d1JAAh7UIFsI3MVvMLYd0</string>
+    <string name="google_app_id" translatable="false">1:985763235734:android:967d4c592124ec8a10bfb7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA4pFKOUQWsY2d1JAAh7UIFsI3MVvMLYd0</string>
+    <string name="google_storage_bucket" translatable="false">bill-tracker-ee921.appspot.com</string>
+    <string name="project_id" translatable="false">bill-tracker-ee921</string>
+</resources>
